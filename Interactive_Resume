@@ -1,0 +1,272 @@
+<main class="CV-page">
+  <h1 class="CV-primaryHeading">
+    <span class="CV-primaryHeading-name">Clayton M. Moore </span><small class="CV-primaryHeading-position">Data Scientist <span class="CV-u-nowrap"></span></small>
+  </h1>
+  <div class="CV-details">
+    <a rel="nofollow" rel="noreferrer"class="CV-detail CV-detail--linkedin" href="https://www.linkedin.com/in/claytonmooresmu">
+      <div class="CV-detail-key">
+        LinkedIn 
+      </div>
+      <div class="CV-detail-val">
+        <wbr>linkedin<wbr>.com/in/claytonmooresmu
+      </div>
+    </a><a rel="nofollow" rel="noreferrer"class="CV-detail CV-detail--website" href="https://github.com/Shrutespace">
+      <div class="CV-detail-key">
+        Personal GitHub
+      </div>
+      <div class="CV-detail-val">
+        github.com/<wbr>Shrutespace
+      </div>
+    </a><a rel="nofollow" rel="noreferrer"class="CV-detail CV-detail--twitter" href="claymoore04@gmail.com">
+      <div class="CV-detail-key">
+        Email
+      </div>
+      <div class="CV-detail-val">
+        claymoore04@<wbr>gmail.com
+      </div>
+    </a>
+  </div>
+  <p class="CV-introBlurb">
+    A budding data scientist that is looking to gain experience in the way that people interact with technology.  Experience working with untidy datasets and producing business changing results in telecommunication industry. Seeking positions that utilize my ability to build relationships with people while also gaining experience in computation skills.  
+  </p>
+  <hr />
+  <div class="CV-grid">
+    <div class="CV-grid-column CV-grid-column--left">
+      <div class="CV-jobs">
+        <h2 class="CV-secondaryHeading CV-jobs-heading">
+          Employment history
+        </h2>
+        <section class="CV-timeline CV-job">
+          <h3 class="CV-timeline-heading">
+            <span class="CV-timeline-heading-title">Data Scientist </span>&#8211; <span class="CV-timeline-heading-location">AT&T - BIG DATA </span><small class="CV-timeline-heading-duration">January 2015 to current</small>
+          </h3>
+          <ul class="CV-timeline-details">
+            <li class="CV-job-timeline-item">
+              Created a statistical model for AT&T employees that helped predict their level of innovation engagement within the company while also promoting possible ways that they could learn how to be more innovative
+            </li>
+            <li class="CV-job-timeline-item">
+              Used R, Python, and other statistical software to help eliminate robo-callers off AT&T's network as part of a Chairman's initiative
+            </li>
+            <li class="CV-job-timeline-item">
+              Utilized H2O.ai and Pig to improve accuracy of estimated technician job duration for DirecTV by 48%
+            </li>
+          </ul>
+        </section>
+        <section class="CV-timeline CV-job">
+          <h3 class="CV-timeline-heading">
+            <span class="CV-timeline-heading-title">Teaching Assistant </span>&#8211; <span class="CV-timeline-heading-location">University of Texas - Southwestern</span><small class="CV-timeline-heading-duration">August 2015 - December 2015</small>
+          </h3>
+          <ul class="CV-timeline-details">
+            <li class="CV-timeline-details-item">
+              Assisted professor in giving lectures about introductory statistics to 40+ graduate students
+            </li>
+            <li class="CV-timeline-details-item">
+              Conducted office hours to help student's in grasping material taught in class
+            </li>
+            <li class="CV-timeline-details-item">
+              Wrote and graded homework or projects every week and gave feedback to students
+            </li>
+            <li class="CV-timeline-details-item">
+              Designed final exam for students to measure grasp of topics such as exploratory statistics, data visualization, linear regression, and hypothesis testing
+            </li>
+          </ul>
+        </section>
+        <section class="CV-timeline CV-job">
+          <h3 class="CV-timeline-heading">
+            <span class="CV-timeline-heading-title">Orientation Mentor </span>&#8211; <span class="CV-timeline-heading-location">Southern Methodist University</span><small class="CV-timeline-heading-duration">Summer 2016</small>
+          </h3>
+          <ul class="CV-timeline-details">
+            <li class="CV-timeline-details-item">
+              Developed a six week training curriculum for orientation leaders that provided key information about services provided by the University
+            </li>
+            <li class="CV-timeline-details-item">
+              Oversaw and mentored team of 11 undergraduates as they introduced first-year and transfer students to Southern Methodist University
+            </li>
+            <li class="CV-timeline-details-item">
+              Organized a budget of over $60,000 for new student orientation programming over the entire summer  
+            </li>
+          </ul>
+        </section>
+        <section class="CV-timeline CV-job">
+          <h3 class="CV-timeline-heading">
+            <span class="CV-timeline-heading-title">Orientation Leader </span>&#8211; <span class="CV-timeline-heading-location">Southern Methodist University </span><small class="CV-timeline-heading-duration">Summer 2014, Summer 2015</small>
+          </h3>
+          <ul class="CV-timeline-details">
+            <li class="CV-timeline-details-item">
+              Facilitated small groups of twelve to fifteen incoming first year students and answered questions about SMU academia and campus traditions
+            </li>
+            <li class="CV-timeline-details-item">
+              Educated students and parents about Southern Methodist University and everyday college life while always painting a positive light on the University
+            </li>
+            <li class="CV-timeline-details-item">
+              Produced a curriculum for a three day, two night orientation for over 1500 incoming students that's main purpose was to promote relationships between first year students
+            </li>
+          </ul>
+        </section>
+      </div>
+    </div>
+    <div class="CV-grid-column CV-grid-column--right">
+      <div class="CV-skills">
+        <h2 class="CV-secondaryHeading CV-skills-heading">
+          Skills
+        </h2>
+        <section class="CV-skill-group">
+          <h3 class="CV-skills-group-heading">
+            Computer Languages
+          </h3>
+          <div class="CV-skills-group-list">
+            <div class="CV-skill">
+              <div class="CV-skill-name">
+                R
+              </div>
+              <div class="CV-skill-value" colspan="4">
+                <meter class="CV-skill-rating" max="5" min="0" value="3">3/5</meter>
+              </div>
+            </div>
+            <div class="CV-skill">
+              <div class="CV-skill-name">
+                Python
+              </div>
+              <div class="CV-skill-value" colspan="5">
+                <meter class="CV-skill-rating" max="5" min="0" value="1.5">2/5</meter>
+              </div>
+            </div>
+            <div class="CV-skill">
+              <div class="CV-skill-name">
+                Pig/Hive
+              </div>
+              <div class="CV-skill-value" colspan="5">
+                <meter class="CV-skill-rating" max="5" min="0" value="2.5">1/5</meter>
+              </div>
+            </div>
+            <div class="CV-skill">
+              <div class="CV-skill-name">
+                SAS
+              </div>
+              <div class="CV-skill-value" colspan="5">
+                <meter class="CV-skill-rating" max="5" min="0" value="2">2/5</meter>
+              </div>
+            </div>
+            <div class="CV-skill">
+              <div class="CV-skill-name">
+                Microsoft Office
+              </div>
+              <div class="CV-skill-value" colspan="5">
+                <meter class="CV-skill-rating" max="5" min="0" value="4">4/5</meter>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="CV-skill-group">
+          <h3 class="CV-skills-group-heading">
+            Statistical Techniques
+          </h3>
+          <div class="CV-skills-group-list">
+            <div class="CV-skill">
+              <div class="CV-skill-name">
+                Exploratory Analysis
+              </div>
+              <div class="CV-skill-value">
+                <meter class="CV-skill-rating" max="5" min="0" value="3">4/5</meter>
+              </div>
+            </div>
+            <div class="CV-skill">
+              <div class="CV-skill-name">
+                Predictive Modeling
+              </div>
+              <div class="CV-skill-value">
+                <meter class="CV-skill-rating" max="5" min="0" value="3">3/5</meter>
+              </div>
+            </div>
+            <div class="CV-skill">
+              <div class="CV-skill-name">
+                Data Visualization
+              </div>
+              <div class="CV-skill-value">
+                <meter class="CV-skill-rating" max="5" min="0" value="3">2/5</meter>
+              </div>
+            </div>
+            <div class="CV-skill">
+              <div class="CV-skill-name">
+                Machine Learning
+              </div>
+              <div class="CV-skill-value">
+                <meter class="CV-skill-rating" max="5" min="0" value="2">2/5</meter>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section class="CV-skill-group">
+          <h3 class="CV-skills-group-heading">
+            Other Skills
+          </h3>
+          <div class="CV-skills-group-list">
+            <div class="CV-skill">
+              <div class="CV-skill-name">
+                Team Facilitation
+              </div>
+              <div class="CV-skill-value">
+                <meter class="CV-skill-rating" max="5" min="0" value="3">3/5</meter>
+              </div>
+            </div>
+            <div class="CV-skill">
+              <div class="CV-skill-name">
+                Team Leadership 
+              </div>
+              <div class="CV-skill-value">
+                <meter class="CV-skill-rating" max="5" min="0" value="4">4/5</meter>
+              </div>
+            </div>
+            <div class="CV-skill">
+              <div class="CV-skill-name">
+                Social Media
+              </div>
+              <div class="CV-skill-value">
+                <meter class="CV-skill-rating" max="5" min="0" value="3">3/5</meter>
+              </div>
+            </div>
+            <div class="CV-skill">
+              <div class="CV-skill-name">
+                Product Management
+              </div>
+              <div class="CV-skill-value">
+                <meter class="CV-skill-rating" max="5" min="0" value="3.5">3/5</meter>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+  <div class="CV-education">
+    <h2 class="CV-secondaryHeading CV-education-heading">
+      Education history
+    </h2>
+    <section class="CV-timeline CV-education-group">
+      <h3 class="CV-timeline-heading">
+        <span class="CV-timeline-heading-title">Masters, Applied Statistics & Data Analysis </span><span class="CV-timeline-heading-location">Southern Methodist University </span><small class="CV-timeline-heading-duration">2015-2016</small>
+      </h3>
+      <ul class="CV-timeline-details">
+        <li class="CV-timeline-details-item">
+          Courses included: Statistical Consulting, R, SAS, Experimental Statistics, Mathematical Statistics, Intro to Data Science
+        </li>
+        <li class="CV-timeline-details-item">
+          Collaborated with classmates to produce a study on traffic data and what are the most meaningful and destructive events that lead to car crashes. The project received 3rd place at the 2016 JSM conference
+        </li>
+      </ul>
+    </section>
+    <section class="CV-timeline CV-education-group">
+      <h3 class="CV-timeline-heading">
+        <span class="CV-timeline-heading-title">Bachelors, Economics and Statistical Science </span><span class="CV-timeline-heading-location">Southern Methodist University </span><small class="CV-timeline-heading-duration">August 2011- May 2015</small>
+      </h3>
+      <ul class="CV-timeline-details">
+        <li class="CV-timeline-details-item">
+          Courses included: Categorical Data Analysis, Survey Sampling, Economic and Business Forecasting, Econometrics, Investment Behavior, Applied Econometric Analysis
+        </li>
+        <li class="CV-timeline-details-item">
+          Received the "M" Award, the most highly prized recognition bestowed upon students at SMU.  Honorees are an inspiration to others, giving unselfishly of their time and talents in order to make the University, and indeed the world, a better place for all of us to live
+        </li>
+      </ul>
+    </section>
+  </div>
+</main>
